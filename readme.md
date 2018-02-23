@@ -1,3 +1,7 @@
+## Info!
+This project has moved to https://github.com/coveo/platform-client
+
+
 # Coveo-Platform-Client [![Build Status](https://api.travis-ci.org/y-lakhdar/coveo-client.svg?branch=master)](https://travis-ci.org/y-lakhdar/coveo-client) [![codecov](https://codecov.io/gh/y-lakhdar/coveo-client/branch/master/graph/badge.svg)](https://codecov.io/gh/y-lakhdar/coveo-client) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 A simple client to manage organizations in the Coveo Cloud Platform.
